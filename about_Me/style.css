@@ -6,3 +6,22 @@ h1{
     margin: 0;
 
 }
+
+.bioPara{
+    float: Right;
+    border: black 1px 20%;
+    border-radius: 200px;
+    padding-left: 10%;
+}
+
+img{
+    float: left;
+}
+
+.lists{
+    float: left;
+}
+
+.outlinks{
+    float: left;
+}
